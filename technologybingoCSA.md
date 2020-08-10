@@ -11,8 +11,7 @@ _Complexity (1-5): 1_
 - Functionality is very limited
 - Can access server time at the company
 
-_I do not really see this option as a reality, would rather do something that is a combination. I personally use Toggle, with app, webapp, desktop and browser add-on._
-
+_I do not really see this option as a reality, would rather do something that is a combination. I personally use Toggle, with app, webapp, desktop and browser add-on._  
 
 
 **Time tracking system 02**
@@ -28,7 +27,8 @@ _Complexity (1-5): 1_
 - native apps offer safer data transfer but this info is not so sensitive
 - updates are easier to publish (although very rare updates are expected)
 - easier to connect with the desktop version
-- native apps would mean higher development and maintenance cost
+- native apps would mean higher development and maintenance cost  
+
 
 **Precision agriculture sensor system**
 
